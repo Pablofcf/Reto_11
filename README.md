@@ -3,7 +3,6 @@
 1. Desarrolle un programa que permita realizar la suma/resta de matrices. El programa debe validar las condiciones necesarias para ejecutar la operación.
 
 ```python
-'''Suma de matrices'''
 #Creamos 2 matrices
 matriz1=[[1,2,3],[4,5,6],[7,8,9]]
 matriz2=[[9,8,7],[6,5,4],[3,2,1]]
